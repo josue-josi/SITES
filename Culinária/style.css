@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+}
+.img1 {
+    height: 157px;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ECA457;
+}
+.botoes {
+    padding-right: 67px;
+    font-size: 42px;
+    padding-top: 50px;
+}
+.receita {
+    padding-right: 40px;
+}
+.img2 {
+    height: 560px;
+    width: 100%;
+}
+.text1 {
+    text-align: center;
+    font-size: 90px;
+    color: #ECA457;
+    padding-top: 56px;
+}
+.text2 {
+    text-align: left;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 45px;
+}
+.text3 {
+    text-align: center;
+    font-size: 90px;
+    color: #ECA457;
+    padding-top: 70px;
+    font-family: 'Gill Sans';
+}
+.todas {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    
+    
+}
+.todas div {
+    margin: 0 100px;
+    
+}
+.div1,.div2 {
+    display: flex;
+}
+.texto2,.texto1 {
+    font-size: 30px;
+    width: 160px;
+    color: #AFA7A7;
+}
+.tudo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 150px 0px 150px;
+    justify-content: space-between;
+    height: 220px;
+}
+.parte1 {
+    display: flex;
+    align-items: center;
+}
+.divisao1 {
+   height: 56px;
+}
+.teste {
+    margin-top: 100px;
+}
+.teste {
+    padding-top: 67px;
+}
+h4 {
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.t {
+    font-size: 40px;
+    color: #AFA7A7;
+    font-family: 'Gill Sans';
+}
+
+hr {
+    border: 2px solid #ECA457;
+    margin-top: 500px;
+}
+.text {
+    text-align: center;
+    font-size: 80px;
+    color: #ECA457;
+    font-family: 'Gill Sans';
+    margin-top: 90px;
+}
+.ultima {
+    height: 220px;
+}
+.texto5 {
+    display: flex;
+    flex-direction: column;
+    padding-left: 45px;
+}
+.all {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 100px;
+    margin-top: 45px;
+    height: 370px;
+    padding-bottom: 100px;
+}
+.titulo {
+    font-size: 55px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.frase {
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #AFA7A7;
+}
+.imagem {
+    height: 160px;
+}
+footer {
+    background-color: #ECA457;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+.ultimo {
+    height: 200px;
+    padding-top: 25px;
+}
